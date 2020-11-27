@@ -1,0 +1,14 @@
+body
+{
+    color:darkblue;
+}
+#title
+{
+    color:indigo;
+    text-align: center;
+    
+}
+img:hover
+{
+    transform: scale(0.9)
+}
